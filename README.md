@@ -18,3 +18,13 @@ $ gem inatall compass
 ```conole
 $ grunt serve
 ```
+
+# SAMPLES
+
+checkout the brunch below and enjoy the following sample!
+
+- master: markdown preview
+- intro: kancolle
+- custom_filter: custom filter sample
+- gravatar: gravater sample
+- gravatar_extend : extend above sample
